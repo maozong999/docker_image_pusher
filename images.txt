@@ -2,5 +2,15 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+jxxghp/moviepilot-v2:latest
+linuxserver/emby:latest
+linuxserver/transmission:latest
+linuxserver/qbittorrent:latest
+zishuo/embyserver:latest
+containrrr/watchtower:latest
+bytemark/webdav:latest
+snowdreamtech/frpc:latest
+6053537/portainer-ce:latest
+mzz2017/v2raya:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
